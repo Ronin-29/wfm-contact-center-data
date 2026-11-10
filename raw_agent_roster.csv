@@ -1,0 +1,556 @@
+Agent_ID,Full_Name,Department,Team_Queue,Site,Hire_Date,Status,Term_Date,Supervisor,Employment_Type,Language_Skill
+A100459,Jose Gonzales,Fraud & Risk,FRAUD_NA_VOICE,Cebu,08-Mar-2022,Active,,Janelle Pascual,FT,EN
+100413,Cristian RamÃ­rez,Customer Service,CS_LATAM_VOICE,Bogotá,"Feb 13, 2021",Active,,Mateo Martínez,Full-time,EN-ES
+A100425,Kristine Dela Cruz,Fraud & Risk,fraud_na_voice,Cebu,20-Jan-2026,Active,,Janelle Pascual,Full Time,EN
+A100283,Piotr Kowalski,Customer Service,CS_EMEA_VOICE,Kraków,29-Nov-2020,Active,,Katarzyna Wójcik,FT,EN-DE
+A100337,Jason Tan,Sales,SALES_APAC_VOICE,Kuala Lumpur,"Sep 30, 2020",Active,,Aisyah Wong,Full Time,EN-ZH
+A100150,Allan Dela Cruz,Technical Support,TECH-NA-VOICE,Manila,"Mar 24, 2023",Active,,Rica Mercado,Full-time,EN
+A100085,Mark Torres,Billing,BIL_NA_VOICE,Manila,"Mar 29, 2023",ACTIVE,,Carlo Flores,Full-time,EN
+A100301,Małgorzata Kamiński,Customer Service,cs_emea_voice,Kraków,"Nov 16, 2022",Active,,Katarzyna Wójcik,Full-time,EN-DE
+A100335,Jason Yusof,Sales,sales_apac_voice,Kuala Lumpur,22-May-2020,Active,,Aisyah Wong,Full Time,EN
+A100374,Julián Díaz,Customer Service,CS-LATAM-VOICE,Bogotá,2024-10-12,Act,,Cristian Martínez,FT,ES
+100146,Patrick Torres,Technical Support,Tech Na Voice ,Manila,"Oct 27, 2025",Active,,Dennis Bautista,Full-time,EN
+A100112,Mary Grace Torres,Technical Support,TECH-NA-VOICE,Manila,11-Dec-2024,ACTIVE,,Rica Mercado,Full-time,EN
+a100498,Rica Cruz,Fraud & Risk,FRAUD_NA_VOICE,Cebu,2021-11-08,Active,,Kevin Bautista,Full-time,EN
+A100422,Cherry Dela Cruz,Fraud & Risk,Fraud Na Voice ,Cebu,15-Dec-2024,Active,,Dennis Dela Cruz,Full-time,EN
+A100235,Jose Garcia,Technical Support,TECH_NA_CHAT,Cebu,2022-12-24,Active,,Carlo Pascual,Full-time,EN
+100317,Jason Chong,Sales,SALES_APAC_VOICE,Kuala Lumpur,2023-11-07,Active,,Aisyah Wong,Full-time,EN
+100537,Priya Tan,Retention,RET_APAC_VOICE,Kuala Lumpur,18-Jul-2023,Active,,Mohd Yusof,FT,EN-MS
+A100054,Rica Pascual,Billing,Bil Na Voice ,Manila,,Active,,Dennis Mendoza,Full-time,EN
+a100029,Dennis Navarro,Billing,BIL_NA_VOICE,Manila,"Apr 18, 2021",terminated,"Aug 14, 2026",Paolo Bautista,Full-time,EN
+A100300,Małgorzata Szymański,Customer Service,CS_EMEA_VOICE,Kraków,"Jan 19, 2022",Active,,Katarzyna Wójcik,Full Time,EN-DE
+A100308,Magdalena Wiśniewski,Customer Service,CS_EMEA_VOICE,Kraków,04-Sep-2019,Active,,Joanna Kozłowski,Full-time,EN-PL
+100310,Michał Kowalski,Customer Service,CS_EMEA_VOICE,Kraków,2019-08-29,Terminated,2026-07-13,Tomasz Wiśniewski,FT,EN-PL
+A100041,Aileen Aquino,Billing,bil_na_voice,Manila,2019-11-02,active,,Dennis Mendoza,FT,EN
+A100411,Laura RamÃ­rez,Customer Service,cs_latam_voice,Bogotá,"Dec 18, 2021",Active,,Daniela Ramírez,Full-time,EN-ES
+A100416,Camila Ramírez,Customer Service,CS_LATAM_VOICE,Bogota,2021-09-23,Active,,Daniela Ramírez,Full-time,EN-ES
+A100473,Joanna Ramos,Fraud & Risk,Fraud Na Voice ,Cebu,2020-12-29,Active,,Dennis Villanueva,Full-time,EN
+A100466,Paolo Domingo,Fraud & Risk,FRAUD_NA_VOICE,Cebu City,02-Mar-2024,Active,,Kevin Bautista,Full-time,EN
+A100108,Ronald Dela Cruz,Technical Support,TECH_NA_VOICE,manila ,"Dec 01, 2019",Act,,Rica Mercado,Full-time,EN
+A100471,Kevin Garcia,Fraud & Risk,FRAUD-NA-VOICE,CEB,13-Oct-2023,Active,,Dennis Villanueva,FT,EN
+A100198,Joanna Cruz,Technical Support,TECH_NA_CHAT,Cebu,"May 10, 2021",ACTIVE,,Janelle Santos,Full Time,EN
+A100351,Mohd Nair,Sales,Sales Apac Voice ,Kuala Lumpur,"Mar 28, 2025",Active,,Aisyah Wong,Full-time,EN-ZH
+A100284,Piotr KozÅowski,Customer Service,CS_EMEA_VOICE,Kraków,25-Dec-2023,Active,,Tomasz Wiśniewski,Full-time,EN
+A100487,Carlo Garcia,Fraud & Risk,FRAUD_NA_VOICE,CEB,"Jul 29, 2020",ACTIVE,,Dennis Dela Cruz,FT,EN
+A100486,Jose Ocampo,Fraud & Risk,FRAUD_NA_VOICE,Cebu,"Nov 27, 2024",Term,12-Aug-2026,Kevin Bautista,FT,EN
+A100439,Noel Dela Cruz,Fraud & Risk,FRAUD_NA_VOICE,Cebu,21-Mar-2025,Terminated,2026-08-13,Maria Domingo,Full-time,EN
+A100544,Mohd Yusof,Retention,RET_APAC_VOICE,Kuala Lumpur,"Oct 16, 2025",Terminated,2026-07-28,Mohd Yusof,FT,EN-MS
+A100448,Mark Torres,Fraud & Risk,Fraud Na Voice ,Cebu City,2023-11-01,Active,,Janelle Pascual,FT,EN
+A100163,Cherry Bautista,Technical Support,TECH-NA-VOICE,MNL,2023-01-07,Active,,Rica Mercado,Full-time,EN
+A100219,Jessa Villanueva,Technical Support,TECH_NA_CHAT,CEB,10-Oct-2025,Active,,Rhea Gonzales,Full-time,EN
+A100489,Patrick Pascual,Fraud & Risk,FRAUD_NA_VOICE,Cebu,2025-04-09,Act,,Kevin Bautista,Full-time,EN
+A100152,Janelle Garcia,Technical Support,TECH_NA_VOICE,MNL,"Jul 19, 2025",Active,,Jose Dela Cruz,Full-time,EN
+A100141,Jose Aquino,Technical Support,TECH_NA_VOICE,MNL,2024-09-10,Active,,Carlo Reyes,Full-time,EN
+A100249,Piotr Wiśniewski,Customer Service,cs_emea_voice,Kraków,09-Mar-2022,Active,,Joanna Kozłowski,Full-time,EN-PL
+A100410,Daniela López,Customer Service,CS-LATAM-VOICE,Bogotá,2019-12-09,Active,,Mateo Martínez,Full-time,ES
+A100483,Joanna Ocampo,Fraud & Risk,FRAUD-NA-VOICE,Cebu,"May 21, 2024",Active,,Dennis Villanueva,FT,EN
+A100313,MichaÅ KozÅowski,Customer Service,CS_EMEA_VOICE,Kraków,17-Nov-2021,Active,,Tomasz Wiśniewski,Full-time,EN-PL
+100053,Allan Aquino,Billing,BIL_NA_VOICE,Manila,12-Sep-2021,Active,,Rhea Torres,Full-time,EN
+A100280,Paweł Kowalski,Customer Service,cs_emea_voice,KRK,28-Dec-2021,Active,,Tomasz Wiśniewski,Full-time,EN-DE
+a100427,Mark Mendoza,Fraud & Risk,FRAUD_NA_VOICE,CEB,23-Oct-2019,Active,,Dennis Villanueva,Full Time,EN
+100391,Juan David Ramírez,Customer Service,CS_LATAM_VOICE,Bogotá,24-Apr-2023,Act,,Cristian Martínez,Full-time,EN-ES
+a100508,Rica Torres,Fraud & Risk,FRAUD_NA_VOICE,Cebu,27-Mar-2021,Active,,Kevin Bautista,Full-time,EN
+A100446,Lorraine Mercado,Fraud & Risk,fraud_na_voice,Cebu,2026-08-10,Active,,Kevin Bautista,Full-time,EN
+A100052,Angelica Domingo,Billing,Bil Na Voice ,Manila,18-Mar-2022,ACTIVE,,Dennis Mendoza,Full-time,EN
+A100382,Daniela López,Customer Service,CS_LATAM_VOICE,Bogotá,"Nov 11, 2019",Active,,Cristian Martínez,Full-time,ES
+a100531,Faizal Tan,Retention,RET_APAC_VOICE,Kuala Lumpur,06-Jun-2022,Act,,Mohd Yusof,Full Time,EN-MS
+A100383,Julián López,Customer Service,CS_LATAM_VOICE,Bogotá,04-Jun-2025,Active,,Cristian Martínez,FT,ES
+A100008,John Bautista,Billing,BIL_NA_VOICE,Manila,23-Jul-2021,Active,,Dennis Mendoza,Full-time,EN
+A100324,Wei Jie Yusof,Sales,SALES_APAC_VOICE,Kuala Lumpur,2025-09-16,Active,,Wei Jie Lim,FT,EN-ZH
+A100057,Dennis Pascual,Billing,BIL-NA-VOICE,Manila,2024-02-10,Active,,Dennis Mendoza,Full-time,EN
+a100133,Maria Garcia,Technical Support,TECH_NA_VOICE,Manila,2026-01-31,Active,,Dennis Bautista,Full-time,EN
+A100329,Kumar Singh,Sales,SALES_APAC_VOICE,Kuala Lumpur,25-Feb-2026,Active,,Wei Jie Lim,Full-time,EN-ZH
+A100478,John Villanueva,Fraud & Risk,FRAUD_NA_VOICE,CEB,2021-01-09,ACTIVE,,Dennis Dela Cruz,FT,EN
+A100067,Aileen Torres,Billing,BIL_NA_VOICE,Manila,"Jun 13, 2024",Act,,Dennis Mendoza,Full Time,EN
+A100199,Ronald Flores,Technical Support,TECH_NA_CHAT,CEB,2024-03-11,Active,,Janelle Santos,Full Time,EN
+A100293,Joanna Dąbrowski,Customer Service,Cs Emea Voice ,Kraków,"Mar 13, 2023",Active,,Tomasz Wiśniewski,Full-time,EN-PL
+A100135,Jerome Ocampo,Technical Support,Tech Na Voice ,Manila,"Nov 23, 2021",active,,Allan Garcia,Full Time,EN
+A100380,Cristian MartÃ­nez,Customer Service,CS_LATAM_VOICE,Bogota,10-Apr-2025,Active,,Mateo Martínez,FT,EN-ES
+A100190,Noel Castillo,Technical Support,TECH_NA_CHAT,Cebu,2022-09-28,Active,,Carlo Pascual,Full Time,EN
+100361,Mohd Yusof,Sales,SALES_APAC_VOICE,Kuala Lumpur,2023-02-28,Active,,Aisyah Wong,Full-time,EN
+a100156,Ronald Torres,Technical Support,TECH_NA_VOICE,Manila,"Jan 01, 2022",ACTIVE,,Dennis Bautista,FT,EN
+A100124,Mary Grace Castillo,Technical Support,TECH_NA_VOICE,Manila,"Nov 27, 2025",Active,,Jose Dela Cruz,Full-time,EN
+100157,Joanna Gonzales,Technical Support,TECH_NA_VOICE,Manila,2021-06-16,Active,,Carlo Reyes,Full Time,EN
+A100369,Cristian Gómez,Customer Service,Cs Latam Voice ,Bogotá,29-May-2025,ACTIVE,,Cristian Martínez,Full-time,ES
+A100357,Arun Wong,Sales,SALES-APAC-VOICE,Kuala Lumpur,2025-07-10,Active,,Faizal Rahman,Full Time,EN-ZH
+A100344,Jason Singh,Sales,SALES_APAC_VOICE,Kuala Lumpur,"Oct 14, 2022",Active,,Aisyah Wong,Full Time,EN
+A100270,Katarzyna Szymański,Customer Service,Cs Emea Voice ,Kraków,"Jan 23, 2021",Active,,Michał Woźniak,Full-time,EN-DE
+A100051,Aileen Garcia,Billing,bil_na_voice,Manila,"Jun 12, 2021",Active,,Rhea Torres,Full-time,EN
+A100482,Kristine Reyes,Fraud & Risk,FRAUD_NA_VOICE,Cebu,2023-06-23,Active,,Dennis Dela Cruz,Full-time,EN
+100298,Anna Lewandowski,Customer Service,CS_EMEA_VOICE,Kraków,2025-08-04,Active,,Joanna Kozłowski,Full-time,EN-PL
+100426,Rhea Garcia,Fraud & Risk,FRAUD_NA_VOICE,Cebu,,ACTIVE,,Kevin Bautista,FT,EN
+A100248,Rhea Garcia,Technical Support,TECH-NA-CHAT,Cebu City,12-Aug-2025,Active,,Janelle Santos,FT,EN
+a100100,Jose Garcia,Technical Support,Tech Na Voice ,MNL,2023-12-10,Active,,Allan Garcia,FT,EN
+A100213,Jessa Navarro,Technical Support,TECH-NA-CHAT,Cebu,26-Aug-2023,Terminated,2026-09-04,Carlo Pascual,Full-time,EN
+A100540,Nurul Nair,Retention,RET-APAC-VOICE,Kuala Lumpur,2020-01-05,Act,,Mohd Yusof,Full-time,EN-ZH
+A100370,JuliÃ¡n MartÃ­nez,Customer Service,CS_LATAM_VOICE,Bogotá,2020-11-18,Active,,Mateo Martínez,Full-time,ES
+A100187,Aileen Dela Cruz,Technical Support,Tech Na Voice ,Manila,2026-09-07,Active,,Kevin Flores,Full-time,EN
+A100322,Shu Ting Lim,Sales,SALES-APAC-VOICE,KL,2023-05-31,Act,,Wei Jie Lim,Full Time,EN-ZH
+A100468,Kevin Villanueva,Fraud & Risk,FRAUD_NA_VOICE,CEB,"Oct 23, 2021",Active,,Kevin Bautista,Full-time,EN
+a100209,Kevin Aquino,Technical Support,Tech Na Chat ,CEB,"Apr 08, 2022",active,,Janelle Santos,Full-time,EN
+A100442,Rica Aquino,Fraud & Risk,FRAUD_NA_VOICE,Cebu,"Sep 07, 2026",Active,,Kevin Bautista,FT,EN
+a100243,Jose Bautista,Technical Support,TECH_NA_CHAT,Cebu,05-May-2020,Active,,Janelle Santos,Full Time,EN
+A100303,Anna Kowalski,Customer Service,CS_EMEA_VOICE,Kraków,"Aug 09, 2021",Act,,Michał Woźniak,Full-time,EN-DE
+A100274,Michał Kowalczyk,Customer Service,CS_EMEA_VOICE,Kraków,2021-11-14,Act,,Michał Woźniak,Full-time,EN-DE
+A100299,Agnieszka Szymański,Customer Service,CS_EMEA_VOICE,Kraków,"Jul 13, 2026",Active,,Joanna Kozłowski,Full-time,EN-PL
+a100072,Kristine Salazar,Billing,BIL_NA_VOICE,Manila,"Apr 08, 2024",Active,,Aileen Mendoza,Full-time,EN
+A100400,Sebastián Gómez,Customer Service,Cs Latam Voice ,Bogotá,"Jun 30, 2020",Active,,Cristian Martínez,Full-time,EN-ES
+A100455,Lorraine Garcia,Fraud & Risk,FRAUD_NA_VOICE,Cebu,03-Aug-2024,active,,Dennis Villanueva,Full-time,EN
+A100220,Aileen Navarro,Technical Support,TECH_NA_CHAT,Cebu,2026-04-17,Active,,Rhea Gonzales,Full-time,EN
+100494,Kevin Aquino,Fraud & Risk,FRAUD_NA_VOICE,CEB,19-Feb-2021,Active,,Maria Domingo,Full-time,EN
+A100251,Joanna KamiÅski,Customer Service,CS_EMEA_VOICE,Kraków,"Jun 09, 2020",Active,,Tomasz Wiśniewski,Full-time,EN-PL
+A100125,Maria Ocampo,Technical Support,TECH_NA_VOICE,Manila,"Dec 16, 2019",Terminated,"Jul 14, 2026",Carlo Reyes,FT,EN
+A100171,Dennis Flores,Technical Support,TECH_NA_VOICE,manila ,07-Sep-2026,Active,,Kevin Flores,Full-time,EN
+A100204,Patrick Bautista,Technical Support,TECH_NA_CHAT,Cebu,"Dec 16, 2024",Active,,Carlo Pascual,FT,EN
+100418,Rica Domingo,Fraud & Risk,FRAUD-NA-VOICE,Cebu,2020-04-22,Active,,Dennis Villanueva,Full-time,EN
+A100522,Mei Ling Yusof,Retention,ret_apac_voice,Kuala Lumpur,"Dec 13, 2023",Active,,Mohd Yusof,FT,EN-ZH
+a100262,Tomasz Nowak,Customer Service,CS_EMEA_VOICE,Kraków,"Dec 29, 2020",Active,,Tomasz Wiśniewski,Full Time,EN-DE
+100302,Agnieszka Lewandowski,Customer Service,cs_emea_voice,Krakow,"Jul 26, 2025",Active,,Tomasz Wiśniewski,Full-time,EN-PL
+A100405,Paula RodrÃ­guez,Customer Service,CS_LATAM_VOICE,Bogota,01-Oct-2025,Active,,Daniela Ramírez,Full-time,EN-ES
+A100440,Jerome Navarro,Fraud & Risk,FRAUD-NA-VOICE,CEB,26-Oct-2024,active,,Kevin Bautista,Full-time,EN
+A100071,Jessa Torres,Customer Service,CS_EMEA_VOICE,Manila,25-Nov-2021,Inactive-Transfer,,Paolo Bautista,Full Time,EN
+A100406,Luisa Vargas,Customer Service,CS_LATAM_VOICE,Bogotá,02-Dec-2020,Active,,Cristian Martínez,FT,EN-ES
+A100076,Ronald Castillo,Billing,BIL_NA_VOICE,Manila,"Sep 17, 2023",Active,,Carlo Flores,Full-time,EN
+A100180,Jessa Torres,Technical Support,Tech Na Voice ,Manila,01-Oct-2019,Active,,Rica Mercado,Full-time,EN
+A100472,Aileen Navarro,Fraud & Risk,FRAUD_NA_VOICE,Cebu,20-Jul-2024,Active,,Kevin Bautista,FT,EN
+A100457,Mark Bautista,Fraud & Risk,fraud_na_voice,CEB,31-Oct-2025,Active,,Kevin Bautista,Full-time,EN
+A100372,Sebastián Rojas,Customer Service,CS_LATAM_VOICE,Bogotá,2021-04-05,Active,,Mateo Martínez,FT,ES
+A100358,Kumar Tan,Sales,sales_apac_voice,Kuala Lumpur,14-Feb-2023,Active,,Aisyah Wong,Full-time,EN-MS
+A100091,Ronald Salazar,Technical Support,TECH_NA_VOICE,Manila,"Jan 09, 2020",Terminated,10-Sep-2026,Jose Dela Cruz,FT,EN
+A100035,Aileen Castillo,Billing,BIL_NA_VOICE,MNL,2026-09-07,Active,,Aileen Mendoza,FT,EN
+A100057,Dennis Pascual,Customer Service,CS_EMEA_VOICE,Manila,2024-02-10,Inactive-Transfer,,Dennis Mendoza,Full-time,EN
+A100164,Rhea Garcia,Technical Support,TECH_NA_VOICE,Manila,2021-11-17,Active,,Allan Garcia,Full-time,EN
+100046,Carlo Aquino,Billing,bil_na_voice,Manila,20-Apr-2021,active,,Dennis Mendoza,FT,EN
+A100202,Jessa Flores,Technical Support,TECH_NA_CHAT,Cebu,07-Sep-2026,Act,,Rhea Gonzales,Full-time,EN
+A100319,Jason bin Abdullah,Sales,SALES-APAC-VOICE,KL,2021-12-12,Active,,Wei Jie Lim,Full-time,EN-ZH
+A100523,Mei Ling Raj,Retention,RET_APAC_VOICE,Kuala Lumpur,22-Mar-2023,Active,,Mohd Yusof,Full-time,EN-ZH
+A100320,Faizal Lee,Sales,SALES-APAC-VOICE,Kuala Lumpur,"Mar 23, 2025",Active,,Faizal Rahman,Full-time,EN-ZH
+A100396,Paula RamÃ­rez,Customer Service,CS_LATAM_VOICE,Bogota,2025-10-11,Active,,Daniela Ramírez,Full-time,ES
+A100117,Paolo Santos,Technical Support,TECH-NA-VOICE,Manila,,Active,,Allan Garcia,FT,EN
+100318,Kumar Raj,Sales,SALES_APAC_VOICE,Kuala Lumpur,2026-03-28,Active,,Aisyah Wong,Full-time,EN-ZH
+A100476,Carlo Mercado,Fraud & Risk,Fraud Na Voice ,Cebu,05-Mar-2026,Active,,Dennis Dela Cruz,Full-time,EN
+A100431,Joanna Salazar,Fraud & Risk,Fraud Na Voice ,CEB,2022-07-24,Active,,Dennis Dela Cruz,Full-time,EN
+A100462,Cherry Aquino,Fraud & Risk,FRAUD_NA_VOICE,Cebu,2022-12-27,Active,,Dennis Dela Cruz,Full-time,EN
+A100044,John Castillo,Billing,Bil Na Voice ,Manila,,Active,,Dennis Mendoza,FT,EN
+A100231,Patrick Bautista,Technical Support,TECH_NA_CHAT,CEB,13-Apr-2021,Active,,Rhea Gonzales,Full-time,EN
+A100371,Natalia Martínez,Customer Service,CS_LATAM_VOICE,Bogotá,"Oct 10, 2020",Act,,Cristian Martínez,FT,EN-ES
+A100312,Małgorzata Lewandowski,Customer Service,Cs Emea Voice ,Kraków,04-Sep-2020,Active,,Tomasz Wiśniewski,FT,EN-PL
+A100496,Allan Mercado,Fraud & Risk,FRAUD_NA_VOICE,CEB,27-Oct-2019,Active,,Dennis Villanueva,Full-time,EN
+A100534,Arun Tan,Retention,RET-APAC-VOICE,Kuala Lumpur,"Sep 14, 2022",Active,,Mohd Yusof,Full-time,EN
+A100050,Rica Gonzales,Billing,bil_na_voice,Manila,2021-08-23,Active,,Dennis Mendoza,Full-time,EN
+a100090,Rhea Domingo,Technical Support,TECH_NA_VOICE,Manila,"Jun 01, 2025",Active,,Rica Mercado,Full Time,EN
+A100513,Jessa Ramos,Fraud & Risk,FRAUD_NA_VOICE,Cebu,2024-05-27,Active,,Dennis Dela Cruz,Full Time,EN
+A100328,Farah bin Abdullah,Sales,SALES_APAC_VOICE,KL,2020-03-18,Active,,Aisyah Wong,FT,EN-MS
+100224,John Villanueva,Technical Support,TECH_NA_CHAT,Cebu,2020-11-28,Terminated,26-Aug-2026,Carlo Pascual,Full-time,EN
+A100034,Joanna Torres,Billing,BIL_NA_VOICE,Manila,"Jan 05, 2025",Active,,Carlo Flores,Full-time,EN
+A100437,Mark Mercado,Fraud & Risk,FRAUD_NA_VOICE,Cebu City,2023-04-07,Active,,Dennis Villanueva,FT,EN
+A100362,Faizal Raj,Sales,SALES_APAC_VOICE,Kuala Lumpur,2020-06-26,Active,,Aisyah Wong,FT,EN-MS
+100099,Mary Grace Castillo,Technical Support,TECH_NA_VOICE,Manila,,Active,,Allan Garcia,Full-time,EN
+A100477,Janelle Reyes,Fraud & Risk,FRAUD_NA_VOICE,Cebu,18-Jun-2020,active,,Janelle Pascual,Full-time,EN
+A100535,Aisyah Raj,Retention,RET_APAC_VOICE,Kuala Lumpur,08-Dec-2023,Active,,Mohd Yusof,Full-time,EN-ZH
+A100196,Kevin Pascual,Technical Support,tech_na_chat,Cebu,25-Mar-2024,Terminated,10-Aug-2026,Janelle Santos,Full-time,EN
+100048,Janelle Cruz,Billing,BIL_NA_VOICE,Manila,02-Jan-2021,Active,,Rhea Torres,Full-time,EN
+A100428,Patrick Dela Cruz,Fraud & Risk,FRAUD-NA-VOICE,CEB,"Sep 15, 2024",Active,,Kevin Bautista,Full-time,EN
+100511,Maria Gonzales,Fraud & Risk,fraud_na_voice,Cebu,08-Feb-2021,Act,,Dennis Villanueva,Full Time,EN
+A100022,Patrick Castillo,Billing,BIL_NA_VOICE,Manila,"Jul 15, 2022",Active,,Carlo Flores,Full-time,EN
+A100541,Nurul Nair,Retention,RET_APAC_VOICE,Kuala Lumpur,"Mar 22, 2021",ACTIVE,,Mohd Yusof,Full-time,EN-MS
+A100140,Jerome Santos,Technical Support,TECH_NA_VOICE,Manila,10-Aug-2026,Active,,Dennis Bautista,Full-time,EN
+A100245,Angelica Aquino,Technical Support,TECH_NA_CHAT,Cebu,2024-11-30,Term,"Jul 22, 2026",Carlo Pascual,Full-time,EN
+A100177,Carlo Salazar,Tech Support,TECH_NA_VOICE,Manila,"May 09, 2025",Active,,Allan Garcia,Full-time,EN
+A100128,Aileen Bautista,Technical Support,TECH_NA_VOICE,Manila,2022-01-21,Active,,Carlo Reyes,Full-time,EN
+A100424,Kevin Flores,Fraud & Risk,FRAUD_NA_VOICE,Cebu,20-Feb-2026,Active,,Kevin Bautista,Full-time,EN
+A100229,Cherry Pascual,Technical Support,TECH-NA-CHAT,Cebu,"Nov 07, 2019",Act,,Carlo Pascual,Full Time,EN
+A100132,Patrick Garcia,Technical Support,TECH_NA_VOICE,Manila,2024-02-03,Active,,Kevin Flores,Full-time,EN
+A100089,Jose Castillo,Customer Service,CS_EMEA_VOICE,Manila,"May 12, 2025",Inactive-Transfer,,Jose Dela Cruz,Full Time,EN
+A100350,Arun Lee,Sales ,SALES_APAC_VOICE,Kuala Lumpur,16-Dec-2025,Active,,Wei Jie Lim,Full-time,EN
+A100453,Jerome Dela Cruz,Fraud & Risk,FRAUD_NA_VOICE,Cebu,2024-10-25,Active,,Kevin Bautista,FT,EN
+A100294,Małgorzata Zieliński,Cust Service,cs_emea_voice,Kraków,2026-08-10,Active,,Michał Woźniak,Full-time,EN-DE
+A100306,Piotr DÄbrowski,Customer Service,CS_EMEA_VOICE,Kraków,18-Apr-2026,Active,,Tomasz Wiśniewski,FT,EN
+A100142,Patrick Pascual,Technical Support,TECH_NA_VOICE,Manila,2019-09-28,Active,,Jose Dela Cruz,FT,EN
+A100542,Mohd Raj,Retention,Ret Apac Voice ,Kuala Lumpur,"Dec 14, 2024",Terminated,"Jul 11, 2026",Mohd Yusof,Full-time,EN
+A100402,Santiago LÃ³pez,Customer Service,cs_latam_voice,Bogota,2023-07-16,Active,,Cristian Martínez,Full-time,ES
+A100154,Jose Mercado,Technical Support,TECH_NA_VOICE,Manila,"Nov 04, 2023",Active,,Jose Dela Cruz,Full-time,EN
+A100503,John Dela Cruz,Fraud & Risk,FRAUD_NA_VOICE,Cebu,2022-03-29,Active,,Kevin Bautista,Full-time,EN
+A100420,Kristine Mendoza,Fraud & Risk,FRAUD_NA_VOICE,Cebu City,12-Feb-2020,ACTIVE,,Maria Domingo,Full-time,EN
+A100360,Ahmad Singh,Sales,SALES_APAC_VOICE,Kuala Lumpur,2021-03-17,Active,,Wei Jie Lim,Full-time,EN-ZH
+100123,Jerome Mercado,Technical Support,TECH_NA_VOICE,Manila,27-Jul-2023,ACTIVE,,Jose Dela Cruz,Full Time,EN
+100010,Aileen Torres,Billing,BIL_NA_VOICE,manila ,2024-01-03,Active,,Carlo Flores,Full-time,EN
+A100443,Dennis Torres,Fraud & Risk,FRAUD_NA_VOICE,Cebu,04-Nov-2022,Active,,Maria Domingo,FT,EN
+A100281,Agnieszka Wiśniewski,Customer Service,CS-EMEA-VOICE,KRK,2022-06-02,ACTIVE,,Tomasz Wiśniewski,Full-time,EN-DE
+a100376,Valentina Díaz,Customer Service,CS_LATAM_VOICE,Bogotá,26-Jun-2020,Active,,Mateo Martínez,Full-time,EN-ES
+A100276,Magdalena Kowalski,Customer Service,CS-EMEA-VOICE,Kraków,10-Aug-2020,Active,,Michał Woźniak,Full-time,EN-DE
+100404,Paula Moreno,Customer Service,CS_LATAM_VOICE,Bogotá,2021-10-05,Active,,Daniela Ramírez,FT,ES
+A100102,Mark Santos,Technical Support,TECH_NA_VOICE,Manila,2024-06-04,Active,,Dennis Bautista,Full-time,EN
+A100289,Łukasz Kamiński,Customer Service,CS_EMEA_VOICE,Krakow,,Active,,Tomasz Wiśniewski,FT,EN-DE
+A100118,Jerome Ocampo,Technical Support,TECH_NA_VOICE,Manila,"May 01, 2021",Active,,Allan Garcia,FT,EN
+A100060,Kevin Mendoza,Billing,BIL_NA_VOICE,MNL,"Jun 15, 2022",active,,Aileen Mendoza,Full-time,EN
+a100444,Angelica Ramos,Fraud & Risk,fraud_na_voice,Cebu City,04-May-2022,Active,,Janelle Pascual,Full-time,EN
+A100237,Angelica Castillo,Technical Support,TECH_NA_CHAT,Cebu,"Aug 06, 2024",Active,,Carlo Pascual,FT,EN
+100510,John Mendoza,Fraud & Risk,FRAUD-NA-VOICE,CEB,2023-02-28,Active,,Kevin Bautista,FT,EN
+A100110,Jessa Bautista,Technical Support,TECH_NA_VOICE,Manila,2026-03-13,Terminated,"Sep 03, 2026",Allan Garcia,Full-time,EN
+A100200,Mark Reyes,Technical Support,TECH_NA_CHAT,Cebu,2020-11-26,Active,,Rhea Gonzales,Full-time,EN
+A100451,Ronald Mercado,Fraud & Risk,FRAUD_NA_VOICE,Cebu,17-Sep-2020,Act,,Kevin Bautista,Full-time,EN
+100340,Siti Yusof,Sales,Sales Apac Voice ,Kuala Lumpur,2021-01-09,Active,,Wei Jie Lim,FT,EN-ZH
+A100331,Shu Ting Lee,Sales,SALES_APAC_VOICE,Kuala Lumpur,"Jan 19, 2020",Active,,Faizal Rahman,Full-time,EN-MS
+A100515,Lorraine Salazar,Fraud & Risk,FRAUD_NA_VOICE,CEB,2023-08-31,Active,,Janelle Pascual,Full-time,EN
+A100077,Jerome Villanueva,Billing,BIL_NA_VOICE,Manila,13-Dec-2023,Active,,Paolo Bautista,Full-time,EN
+A100126,Ronald Pascual,Technical Support,TECH_NA_VOICE,Manila,2020-04-13,Active,,Jose Dela Cruz,FT,EN
+A100151,John Reyes,Technical Support,TECH_NA_VOICE,Manila,"Jan 27, 2024",Active,,Dennis Bautista,Full-time,EN
+A100518,Kristine Domingo,Fraud & Risk,FRAUD_NA_VOICE,CEB,20-Aug-2024,ACTIVE,,Maria Domingo,Full-time,EN
+a100063,Ronald Reyes,Billing,BIL_NA_VOICE,Manila,"Oct 02, 2021",Active,,Carlo Flores,Full-time,EN
+A100384,Sebastián Rodríguez,Customer Service,CS_LATAM_VOICE,Bogotá,"Oct 19, 2024",active,,Daniela Ramírez,Full-time,ES
+A100259,PaweÅ WiÅniewski,Customer Service,CS_EMEA_VOICE,Kraków,07-Dec-2020,Active,,Michał Woźniak,Full Time,EN-DE
+A100393,Natalia Díaz,Customer Service,CS_LATAM_VOICE,Bogotá,,Active,,Daniela Ramírez,Full-time,ES
+A100007,Noel Mercado,Biling,BIL_NA_VOICE,Manila,"Jun 29, 2025",Act,,Aileen Mendoza,Full-time,EN
+A100287,Magdalena Lewandowski,Customer Service,CS_EMEA_VOICE,Kraków,,Active,,Joanna Kozłowski,Full Time,EN
+A100019,Allan Ocampo,Billing,Bil Na Voice ,manila ,12-Dec-2024,Active,,Paolo Bautista,Full-time,EN
+A100192,Kevin Ocampo,Technical Support,TECH_NA_CHAT,Cebu,"Dec 15, 2024",Active,,Janelle Santos,Full-time,EN
+A100158,Lorraine Navarro,Technical Support,TECH-NA-VOICE,Manila,2023-03-08,Active,,Jose Dela Cruz,Full-time,EN
+A100364,Valentina Jiménez,Customer Service,Cs Latam Voice ,Bogotá,19-Mar-2025,Active,,Cristian Martínez,Full-time,EN-ES
+A100225,Kevin Garcia,Technical Support,TECH_NA_CHAT,Cebu,"Jul 10, 2022",Active,,Janelle Santos,FT,EN
+A100355,Mohd Chong,Sales,SALES_APAC_VOICE,Kuala Lumpur,2023-12-21,Active,,Wei Jie Lim,Full-time,EN-ZH
+A100516,Maria Cruz,Fraud & Risk,FRAUD_NA_VOICE,Cebu,,Active,,Dennis Villanueva,FT,EN
+A100001,Mary Grace Pascual,Billing,BIL_NA_VOICE,manila ,"Sep 20, 2022",Active,,Aileen Mendoza,Full Time,EN
+a100061,Jerome Bautista,Billing,BIL_NA_VOICE,Manila,27-Mar-2026,Active,,Paolo Bautista,Full-time,EN
+A100165,Ronald Ramos,Technical Support,Tech Na Voice ,MNL,13-Jul-2026,Active,,Allan Garcia,Full Time,EN
+A100109,Janelle Ramos,Technical Support,TECH_NA_VOICE,Manila,2020-05-07,Active,,Rica Mercado,Full-time,EN
+A100330,Mei Ling Nair,Sales,Sales Apac Voice ,"Kuala Lumpur, MY","Jul 30, 2020",Active,,Wei Jie Lim,Full-time,EN-ZH
+100367,Natalia Rodríguez,Customer Service,CS-LATAM-VOICE,Bogotá,06-Aug-2020,Active,,Mateo Martínez,Full-time,ES
+A100436,Maria Mendoza,Fraud & Risk,FRAUD_NA_VOICE,Cebu City,2024-02-14,Active,,Dennis Villanueva,Full-time,EN
+A100139,John Pascual,Technical Support,Tech Na Voice ,MNL,2023-11-02,Active,,Dennis Bautista,Full-time,EN
+a100282,Joanna Dąbrowski,Customer Service,Cs Emea Voice ,Kraków,2021-08-25,Active,,Michał Woźniak,Full-time,EN
+A100268,Tomasz Szymański,Customer Service,cs_emea_voice,Kraków,"Jan 16, 2022",Active,,Tomasz Wiśniewski,Full-time,EN-PL
+a100376,Valentina Díaz,Billing,BIL_NA_VOICE,Bogotá,26-Jun-2020,Inactive-Transfer,,Mateo Martínez,Full-time,EN-ES
+100533,Arun Yusof,Retention,RET_APAC_VOICE,Kuala Lumpur,2022-07-01,Active,,Mohd Yusof,Full-time,EN-MS
+A100097,Allan Torres,Technical Support,TECH_NA_VOICE,manila ,2021-07-19,Active,,Rica Mercado,Full-time,EN
+A100353,Jason Tan,Sales,SALES_APAC_VOICE,Kuala Lumpur,05-Dec-2021,ACTIVE,,Wei Jie Lim,FT,EN-MS
+A100296,MaÅgorzata Nowak,Customer Service,CS_EMEA_VOICE,Kraków,"Feb 20, 2024",Terminated,16-Sep-2026,Katarzyna Wójcik,Full-time,EN-PL
+A100223,Janelle Salazar,Technical Support,tech_na_chat,Cebu City,"Nov 09, 2024",Active,,Janelle Santos,Full-time,EN
+A100056,Mary Grace Villanueva,Billing,BIL_NA_VOICE,Manila,07-Sep-2026,Active,,Rhea Torres,FT,EN
+A100278,Agnieszka Lewandowski,Customer Service,Cs Emea Voice ,Kraków,07-Sep-2026,Active,,Katarzyna Wójcik,Full-time,EN-PL
+100069,Carlo Santos,Billing,BIL_NA_VOICE,Manila,"Nov 04, 2021",active,,Paolo Bautista,Full-time,EN
+A100485,Cherry Torres,Fraud & Risk,fraud_na_voice,Cebu,14-Jul-2025,Active,,Kevin Bautista,Full-time,EN
+A100004,Kristine Ocampo,Billing,BIL-NA-VOICE,Manila,"May 21, 2024",Active,,Paolo Bautista,Full-time,EN
+A100526,Shu Ting Tan,Retention,RET_APAC_VOICE,Kuala Lumpur,"Aug 17, 2020",Active,,Mohd Yusof,FT,EN
+A100011,Mary Grace Navarro,Billing,BIL_NA_VOICE,Manila,"Sep 07, 2026",Active,,Aileen Mendoza,Full-time,EN
+A100415,Laura Moreno,Customer Service,CS_LATAM_VOICE,Bogotá,23-Sep-2022,Active,,Daniela Ramírez,Full-time,EN-ES
+A100490,Cherry Mercado,Fraud & Risk,FRAUD_NA_VOICE,CEB,"Apr 10, 2021",Active,,Kevin Bautista,FT,EN
+A100049,Rhea Navarro,Billing,BIL_NA_VOICE,MNL,"Mar 17, 2023",Active,,Carlo Flores,Full-time,EN
+A100423,Mary Grace Salazar,Fraud & Risk,FRAUD_NA_VOICE,CEB,2023-07-15,Active,,Janelle Pascual,Full Time,EN
+A100461,Allan Gonzales,Fraud & Risk,FRAUD_NA_VOICE,Cebu,"Mar 27, 2021",Active,,Dennis Villanueva,Full-time,EN
+A100043,Mary Grace Santos,Billing,BIL_NA_VOICE,Manila,20-Aug-2024,LOA,,Carlo Flores,Full-time,EN
+a100116,Kevin Reyes,Technical Support,TECH_NA_VOICE,Manila,2021-11-09,Active,,Dennis Bautista,FT,EN
+A100027,Aileen Salazar,Billing,BIL_NA_VOICE,MNL,05-Jan-2020,Active,,Paolo Bautista,Full-time,EN
+100480,Mark Ocampo,Fraud & Risk,FRAUD-NA-VOICE,Cebu,02-Feb-2024,Active,,Janelle Pascual,Full-time,EN
+A100185,Lorraine Ramos,Technical Support,TECH_NA_VOICE,Manila,"Oct 18, 2025",Active,,Carlo Reyes,Full-time,EN
+a100238,Patrick Mendoza,Technical Support,TECH_NA_CHAT,Cebu City,08-Nov-2019,Active,,Janelle Santos,Full-time,EN
+A100458,Dennis Villanueva,Fraud & Risk,FRAUD_NA_VOICE,CEB,07-Sep-2026,Active,,Maria Domingo,Full-time,EN
+A100089,Jose Castillo,Technical Support,tech_na_voice,Manila,"May 12, 2025",Active,,Jose Dela Cruz,Full Time,EN
+A100305,Agnieszka Nowak,Customer Service,CS_EMEA_VOICE,Kraków,23-Jan-2026,Active,,Michał Woźniak,FT,EN
+A100307,Piotr KozÅowski,Customer Service,CS_EMEA_VOICE,Kraków,19-Apr-2021,Active,,Joanna Kozłowski,Full-time,EN-DE
+A100529,Mohd Raj,Retention,RET_APAC_VOICE,KL,"Aug 08, 2020",Active,,Mohd Yusof,Full-time,EN
+A100130,Cherry Mendoza,Technical Support,TECH_NA_VOICE,Manila,"Feb 13, 2026",Active,,Dennis Bautista,FT,EN
+a100013,Kevin Gonzales,Billing,BIL_NA_VOICE,MNL,"Sep 01, 2021",Active,,Paolo Bautista,Full-time,EN
+A100500,Noel Torres,Fraud & Risk,FRAUD_NA_VOICE,Cebu City,"May 01, 2025",Active,,Kevin Bautista,FT,EN
+A100153,Kevin Pascual,Technical Support,TECH_NA_VOICE,Manila,30-Nov-2019,Active,,Dennis Bautista,FT,EN
+A100080,Aileen Flores,Billing,BIL_NA_VOICE,Manila,2025-05-30,Active,,Aileen Mendoza,FT,EN
+a100341,Priya Ismail,Sales,SALES_APAC_VOICE,Kuala Lumpur,"Apr 19, 2026",Active,,Aisyah Wong,Full-time,EN-MS
+A100242,Lorraine Salazar,Technical Support,TECH-NA-CHAT,Cebu,"Dec 14, 2021",Active,,Carlo Pascual,Full-time,EN
+A100352,Mohd Nair,Sales,SALES_APAC_VOICE,Kuala Lumpur,"Nov 06, 2023",Terminated,13-Aug-2026,Wei Jie Lim,Full-time,EN
+A100175,Rhea Garcia,Technical Support,TECH_NA_VOICE,Manila,29-Dec-2021,Active,,Jose Dela Cruz,Full-time,EN
+100025,Rica Torres,Billing,BIL_NA_VOICE,MNL,"Aug 12, 2022",Active,,Rhea Torres,Full-time,EN
+A100162,Carlo Dela Cruz,Technical Support,TECH_NA_VOICE,manila ,"Jul 03, 2021",Active,,Rica Mercado,Full-time,EN
+A100527,Dewi Raj,Retention,RET_APAC_VOICE,Kuala Lumpur,2024-06-14,Active,,Mohd Yusof,FT,EN
+A100183,Rhea Navarro,Technical Support,TECH_NA_VOICE,Manila,07-Sep-2021,Active,,Jose Dela Cruz,FT,EN
+A100479,Rica Aquino,Fraud & Risk,FRAUD-NA-VOICE,Cebu,13-Jul-2026,Active,,Kevin Bautista,Full-time,EN
+A100120,Mary Grace Mercado,Technical Support,Tech Na Voice ,Manila,04-Aug-2024,Active,,Carlo Reyes,Full-time,EN
+A100512,Rhea Bautista,Fraud & Risk,FRAUD_NA_VOICE,Cebu,"Nov 17, 2024",Terminated,2026-09-12,Dennis Villanueva,Full-time,EN
+A100263,Katarzyna Woźniak,Customer Service,CS_EMEA_VOICE,KRK,04-Aug-2022,Active,,Katarzyna Wójcik,Full-time,EN
+A100429,Carlo Castillo,Fraud & Risk,FRAUD_NA_VOICE,CEB,23-May-2024,Active,,Janelle Pascual,Full-time,EN
+A100059,Jose Ramos,Billing,BIL_NA_VOICE,"Manila, PH",15-Oct-2024,Active,,Rhea Torres,Full-time,EN
+A100169,Patrick Salazar,Technical Support,TECH_NA_VOICE,Manila,07-Sep-2026,Active,,Dennis Bautista,FT,EN
+A100082,Paolo Villanueva,Billing,BIL_NA_VOICE,Manila,21-Nov-2025,Active,,Carlo Flores,Full-time,EN
+A100286,Małgorzata Kamiński,Customer Service,Cs Emea Voice ,Kraków,"Oct 13, 2022",ACTIVE,,Joanna Kozłowski,FT,EN-PL
+A100474,Cherry Navarro,Fraud & Risk,Fraud Na Voice ,Cebu,"Sep 08, 2020",Active,,Janelle Pascual,Full-time,EN
+A100227,Kevin Domingo,Technical Support,Tech Na Chat ,Cebu,"Jul 13, 2026",Act,,Carlo Pascual,FT,EN
+A100491,John Cruz,Fraud & Risk,FRAUD_NA_VOICE,CEB,29-Jun-2025,Active,,Kevin Bautista,Full-time,EN
+A100222,Aileen Bautista,Technical Support,TECH_NA_CHAT,Cebu,2026-05-16,Active,,Janelle Santos,Full-time,EN
+A100499,John Aquino,Fraud & Risk,Fraud Na Voice ,Cebu,"Dec 01, 2024",Active,,Maria Domingo,FT,EN
+100421,Kristine Torres,Fraud & Risk,Fraud Na Voice ,Cebu,19-Aug-2020,Active,,Kevin Bautista,FT,EN
+100273,PaweÅ SzymaÅski,Customer Service,CS_EMEA_VOICE,Krakow,2026-01-18,Active,,Joanna Kozłowski,FT,EN-PL
+A100346,Dewi Chong,Sales,SALES_APAC_VOICE,Kuala Lumpur,"Aug 17, 2021",Active,,Wei Jie Lim,Full-time,EN
+A100314,Jason bin Abdullah,Sales,SALES_APAC_VOICE,"Kuala Lumpur, MY",2022-06-28,Active,,Faizal Rahman,Full-time,EN-ZH
+A100084,Kevin Reyes,Billing,BIL_NA_VOICE,Manila,2022-06-18,Active,,Carlo Flores,Full-time,EN
+A100093,Cherry Navarro,Technical Support,TECH_NA_VOICE,Manila,2024-12-09,Active,,Kevin Flores,Full-time,EN
+A100389,Santiago Díaz,Customer Service,CS_LATAM_VOICE,Bogotá,12-Feb-2021,Active,,Cristian Martínez,Full-time,ES
+a100047,Rhea Mendoza,Billing,bil_na_voice,Manila,2020-03-23,Active,,Rhea Torres,FT,EN
+A100186,Rica Cruz,Technical Support,TECH_NA_VOICE,Manila,03-May-2023,Active,,Allan Garcia,Full-time,EN
+100228,Allan Mendoza,Technical Support,TECH_NA_CHAT,CEB,23-Apr-2020,Active,,Janelle Santos,Full-time,EN
+A100311,Anna Szymański,Customer Service,cs_emea_voice,Kraków,2020-08-15,Active,,Katarzyna Wójcik,Full-time,EN-DE
+a100334,Siti Wong,Sales,SALES_APAC_VOICE,Kuala Lumpur,15-Mar-2020,active,,Aisyah Wong,Full-time,EN
+A100016,Jose Torres,Billing,Bil Na Voice ,Manila,"Mar 23, 2026",Active,,Dennis Mendoza,Full-time,EN
+A100232,Kristine Navarro,Technical Support,TECH_NA_CHAT,Cebu,"Mar 10, 2023",Active,,Janelle Santos,FT,EN
+A100545,Hafiz Lee,Retention,RET_APAC_VOICE,Kuala Lumpur,"Mar 02, 2021",Terminated,15-Sep-2026,Mohd Yusof,Full-time,EN
+A100279,PaweÅ SzymaÅski,Customer Service,CS_EMEA_VOICE,Kraków,"Jul 13, 2026",Active,,Tomasz Wiśniewski,Full-time,EN
+A100525,Priya Ismail,Retention,RET_APAC_VOICE,Kuala Lumpur,,Active,,Mohd Yusof,Full-time,EN
+A100040,Kristine Torres,Billing,BIL_NA_VOICE,Manila,"May 28, 2025",ACTIVE,,Dennis Mendoza,FT,EN
+A100464,Janelle Mendoza,Fraud & Risk,Fraud Na Voice ,CEB,2021-02-25,Active,,Kevin Bautista,Full-time,EN
+A100137,Patrick Castillo,Customer Service,CS_EMEA_VOICE,Manila,"Apr 05, 2022",Inactive-Transfer,,Kevin Flores,Full-time,EN
+A100239,John Reyes,Technical Support,tech_na_chat,Cebu,2025-03-15,Active,,Carlo Pascual,Full-time,EN
+A100138,Joanna Garcia,Technical Support,Tech Na Voice ,Manila,2026-07-13,Active,,Rica Mercado,FT,EN
+A100026,Dennis Mendoza,Billing,BIL-NA-VOICE,Manila,02-Nov-2020,ACTIVE,,Carlo Flores,Full-time,EN
+100356,Jason Nair,Sales,SALES_APAC_VOICE,Kuala Lumpur,2020-10-02,Active,,Wei Jie Lim,Full Time,EN-ZH
+A100465,Aileen Cruz,Fraud & Risk,fraud_na_voice,Cebu,12-Jun-2022,Active,,Dennis Dela Cruz,Full-time,EN
+A100062,Joanna Garcia,Billing,BIL_NA_VOICE,Manila,"Nov 24, 2020",Active,,Paolo Bautista,FT,EN
+A100159,Mark Garcia,Technical Support,TECH_NA_VOICE,MNL,2022-09-29,Active,,Jose Dela Cruz,Full-time,EN
+A100012,Mark Mendoza,Billing,BIL_NA_VOICE,Manila,28-Oct-2021,Active,,Aileen Mendoza,FT,EN
+A100241,Carlo Navarro,Technical Support,TECH_NA_CHAT,Cebu,04-May-2024,Active,,Carlo Pascual,Full-time,EN
+A100018,John Ramos,Billing,BIL_NA_VOICE,Manila,30-Mar-2020,Active,,Rhea Torres,Full-time,EN
+A100456,Patrick Gonzales,Fraud & Risk,FRAUD_NA_VOICE,Cebu,2019-11-07,Act,,Kevin Bautista,FT,EN
+A100068,Mary Grace Villanueva,Billing,BIL_NA_VOICE,MNL,25-Jan-2025,ACTIVE,,Aileen Mendoza,Full-time,EN
+100347,Farah Tan,Sales,SALES_APAC_VOICE,KL,18-Feb-2020,ACTIVE,,Wei Jie Lim,FT,EN-MS
+A100210,Cherry Villanueva,Technical Support,Tech Na Chat ,Cebu,"Mar 20, 2022",Active,,Janelle Santos,Full Time,EN
+A100113,Ronald Flores,Technical Support,Tech Na Voice ,Manila,07-Nov-2021,Active,,Rica Mercado,FT,EN
+A100408,Luisa Rojas,Customer Service,CS_LATAM_VOICE,BOG,28-Dec-2025,Active,,Mateo Martínez,Full-time,ES
+a100214,Maria Pascual,Technical Support,TECH-NA-CHAT,Cebu,20-Nov-2019,Active,,Rhea Gonzales,Full-time,EN
+A100107,Aileen Torres,Technical Support,TECH_NA_VOICE,Manila,2023-03-09,active,,Rica Mercado,Full Time,EN
+A100005,Allan Reyes,Billing,BIL_NA_VOICE,MNL,08-Mar-2025,Active,,Carlo Flores,Full-time,EN
+A100504,Carlo Bautista,Fraud & Risk,fraud_na_voice,Cebu,16-Sep-2024,Active,,Janelle Pascual,Full-time,EN
+A100103,Maria Ramos,Technical Support,TECH_NA_VOICE,"Manila, PH",30-May-2021,Active,,Kevin Flores,FT,EN
+100332,Ahmad Yusof,Sales,SALES_APAC_VOICE,Kuala Lumpur,25-Mar-2021,Active,,Aisyah Wong,Full-time,EN-ZH
+A100323,Faizal Nair,Sales,Sales Apac Voice ,Kuala Lumpur,05-Jul-2021,Active,,Faizal Rahman,FT,EN-ZH
+100254,Åukasz Kowalski,Customer Service,CS_EMEA_VOICE,Kraków,"Mar 31, 2026",Act,,Katarzyna Wójcik,Full Time,EN-DE
+A100366,Paula López,Customer Service,CS_LATAM_VOICE,Bogotá,17-Dec-2024,Active,,Cristian Martínez,Full-time,EN-ES
+A100264,Katarzyna Lewandowski,Customer Service,CS_EMEA_VOICE,Kraków,2022-04-09,Active,,Katarzyna Wójcik,Full-time,EN-DE
+A100252,MichaÅ ZieliÅski,Customer Service,CS_EMEA_VOICE,Kraków,26-Oct-2023,ACTIVE,,Katarzyna Wójcik,Full-time,EN
+A100094,Jessa Garcia,Technical Support,TECH_NA_VOICE,Manila,10-May-2020,Active,,Rica Mercado,Full-time,EN
+A100160,Lorraine Mendoza,Technical Support,TECH_NA_VOICE,manila ,2023-04-08,ACTIVE,,Kevin Flores,FT,EN
+A100377,Sebastián Gómez,Customer Service,CS_LATAM_VOICE,Bogota,07-Mar-2023,Active,,Daniela Ramírez,FT,EN-ES
+A100002,Kevin Castillo,Billing,Bil Na Voice ,Manila,31-Jan-2025,Terminated,2026-07-25,Paolo Bautista,FT,EN
+A100038,Rica Gonzales,Billing,BIL_NA_VOICE,MNL,"Dec 12, 2023",Active,,Aileen Mendoza,Full-time,EN
+A100343,Wei Jie Nair,Sales,Sales Apac Voice ,KL,10-Jul-2023,Active,,Aisyah Wong,Full-time,EN-ZH
+A100167,Jessa Ocampo,Technical Support,TECH_NA_VOICE,Manila,2020-10-08,active,,Kevin Flores,Full-time,EN
+A100514,Jose Pascual,Fraud & Risk,FRAUD_NA_VOICE,Cebu,10-Aug-2026,Active,,Dennis Villanueva,FT,EN
+A100003,Paolo Aquino,Billing,BIL_NA_VOICE,MNL,2025-01-24,Act,,Paolo Bautista,FT,EN
+A100096,Dennis Aquino,Technical Support,tech_na_voice,Manila,"Jun 22, 2021",Active,,Jose Dela Cruz,Full-time,EN
+A100024,Carlo Flores,Billing,BIL_NA_VOICE,Manila,2024-01-29,Active,,Dennis Mendoza,Full-time,EN
+A100260,Tomasz Wójcik,Customer Service,CS_EMEA_VOICE,Krakow,30-Nov-2024,Active,,Tomasz Wiśniewski,Full-time,EN-PL
+100403,Natalia Ramírez,Customer Service,CS_LATAM_VOICE,Bogota,"Jun 23, 2020",Active,,Mateo Martínez,Full-time,EN-ES
+a100285,Piotr Szymański,Customer Service,CS_EMEA_VOICE,Kraków,"Jun 26, 2021",Active,,Tomasz Wiśniewski,Full-time,EN-PL
+A100212,Kevin Torres,Technical Support,TECH_NA_CHAT,Cebu,"Sep 19, 2019",Active,,Carlo Pascual,Full-time,EN
+100134,Dennis Castillo,Technical Support,TECH_NA_VOICE,Manila,20-Sep-2020,Terminated,"Sep 02, 2026",Rica Mercado,Full Time,EN
+A100395,SebastiÃ¡n Castro,Customer Service,CS_LATAM_VOICE,Bogotá,2023-10-13,Active,,Daniela Ramírez,Full-time,ES
+A100502,Cherry Ocampo,Fraud & Risk,Fraud Na Voice ,Cebu,2025-10-25,Active,,Dennis Dela Cruz,FT,EN
+a100345,Faizal Lim,Sales,SALES_APAC_VOICE,KL,21-Jan-2022,Active,,Faizal Rahman,Full-time,EN
+A100143,Mark Flores,Technical Support,TECH-NA-VOICE,Manila,15-Sep-2022,Active,,Carlo Reyes,Full-time,EN
+A100397,Daniela Hernández,Customer Service,cs_latam_voice,Bogota,30-Sep-2023,ACTIVE,,Daniela Ramírez,Full-time,ES
+A100359,Dewi Lim,Sales,SALES_APAC_VOICE,Kuala Lumpur,30-Jul-2022,Active,,Faizal Rahman,Full-time,EN-ZH
+100230,Jose Pascual,Technical Support,TECH_NA_CHAT,Cebu,02-Aug-2023,Active,,Rhea Gonzales,FT,EN
+A100417,Sebastián Hernández,Customer Service,CS_LATAM_VOICE,Bogotá,10-Aug-2026,Active,,Daniela Ramírez,FT,EN-ES
+A100247,Kevin Villanueva,Technical Support,TECH_NA_CHAT,Cebu,25-Nov-2020,Active,,Janelle Santos,Full-time,EN
+A100509,Angelica Torres,Fraud & Risk,FRAUD_NA_VOICE,Cebu City,,Active,,Kevin Bautista,Full-time,EN
+A100086,Patrick Cruz,Billing,BIL_NA_VOICE,Manila,2021-06-11,Active,,Dennis Mendoza,Full-time,EN
+A100250,Tomasz Zieliński,Customer Service,Cs Emea Voice ,Kraków,"Feb 04, 2022",Active,,Joanna Kozłowski,Full-time,EN-DE
+A100155,John Mendoza,Technical Support,TECH_NA_VOICE,Manila,2024-10-20,Active,,Jose Dela Cruz,Full-time,EN
+a100182,Kevin Santos,Technical Support,TECH_NA_VOICE,Manila,"Feb 01, 2021",Active,,Allan Garcia,FT,EN
+100336,Aisyah Chong,Sales,SALES_APAC_VOICE,Kuala Lumpur,28-Apr-2023,Active,,Aisyah Wong,Full-time,EN
+A100075,Paolo Santos,Billing,BIL_NA_VOICE,Manila,10-Aug-2026,Active,,Carlo Flores,Full-time,EN
+A100297,Piotr Wójcik,Customer Service,cs_emea_voice,KRK,"Aug 10, 2025",active,,Katarzyna Wójcik,Full-time,EN-DE
+A100359,Dewi Lim,Customer Service,CS_EMEA_VOICE,Kuala Lumpur,30-Jul-2022,Inactive-Transfer,,Faizal Rahman,Full-time,EN-ZH
+A100185,Lorraine Ramos,Customer Service,CS_EMEA_VOICE,Manila,"Oct 18, 2025",Inactive-Transfer,,Carlo Reyes,Full-time,EN
+A100129,Rica Salazar,Technical Support,TECH_NA_VOICE,Manila,2023-08-08,Active,,Dennis Bautista,Full-time,EN
+100467,Kristine Garcia,Fraud & Risk,FRAUD_NA_VOICE,CEB,2020-02-03,Active,,Dennis Dela Cruz,FT,EN
+A100021,Cherry Salazar,Billing,BIL_NA_VOICE,MNL,2023-02-01,Active,,Dennis Mendoza,Full-time,EN
+100435,Ronald Mendoza,Fraud & Risk,FRAUD-NA-VOICE,CEB,"Oct 23, 2025",Terminated,12-Aug-2026,Dennis Villanueva,Full-time,EN
+A100507,Paolo Salazar,Fraud & Risk,FRAUD_NA_VOICE,Cebu City,"Apr 17, 2022",Active,,Kevin Bautista,Full Time,EN
+A100469,Jerome Reyes,Fraud & Risk,FRAUD_NA_VOICE,Cebu,"Sep 07, 2019",Active,,Kevin Bautista,Full-time,EN
+A100292,Łukasz Nowak,Customer Service,cs_emea_voice,Kraków,19-Jul-2023,Active,,Katarzyna Wójcik,Full-time,EN-PL
+A100098,Dennis Navarro,Technical Support,TECH_NA_VOICE,Manila,2021-09-01,Active,,Kevin Flores,Full-time,EN
+100386,Santiago Díaz,Customer Service,CS_LATAM_VOICE,Bogotá,"Dec 20, 2021",Active,,Cristian Martínez,FT,EN-ES
+100031,Carlo Ocampo,Billing,BIL_NA_VOICE,Manila,30-Sep-2024,Active,,Aileen Mendoza,Full-time,EN
+A100291,Anna Lewandowski,Customer Service,CS_EMEA_VOICE,Kraków,2026-01-29,Active,,Tomasz Wiśniewski,Full-time,EN
+A100253,Tomasz Wójcik,Customer Service,CS_EMEA_VOICE,Krakow,20-Jun-2023,Act,,Joanna Kozłowski,Full-time,EN-PL
+A100070,Rhea Garcia,Billing,BIL_NA_VOICE,Manila,"Oct 12, 2022",Active,,Aileen Mendoza,Full-time,EN
+A100088,Patrick Navarro,Technical Support,TECH_NA_VOICE,Manila,"Jul 26, 2021",Active,,Kevin Flores,FT,EN
+A100354,Priya Rahman,Sales,sales_apac_voice,Kuala Lumpur,2024-06-23,Active,,Wei Jie Lim,Full Time,EN-MS
+A100115,Carlo Villanueva,Technical Support,Tech Na Voice ,Manila,"Nov 15, 2021",active,,Carlo Reyes,Full-time,EN
+A100433,Paolo Garcia,Fraud & Risk,FRAUD_NA_VOICE,Cebu,2019-12-21,Active,,Maria Domingo,Full-time,EN
+A100092,Maria Castillo,Technical Support,TECH_NA_VOICE,manila ,"May 28, 2024",active,,Kevin Flores,Full-time,EN
+A100445,Jose Torres,Fraud & Risk,fraud_na_voice,CEB,2020-11-28,Active,,Dennis Dela Cruz,Full-time,EN
+A100197,Kevin Aquino,Technical Support,TECH_NA_CHAT,Cebu,"Jun 08, 2025",Active,,Rhea Gonzales,Full-time,EN
+A100536,Wei Jie Lee,Retention,RET_APAC_VOICE,KL,10-Aug-2026,Active,,Mohd Yusof,Full-time,EN-ZH
+A100168,Dennis Aquino,Technical Support,TECH_NA_VOICE,Manila,2020-06-28,Active,,Allan Garcia,Full-time,EN
+A100105,Rhea Ocampo,Technical Support,TECH_NA_VOICE,Manila,29-Jan-2025,Term,"Jul 13, 2026",Dennis Bautista,Full Time,EN
+A100321,Aisyah Chong,Sales,Sales Apac Voice ,"Kuala Lumpur, MY","Mar 01, 2021",Active,,Faizal Rahman,Full-time,EN-ZH
+A100501,Maria Ramos,Fraud & Risk,FRAUD_NA_VOICE,Cebu,2020-12-22,Terminated,"Sep 15, 2026",Kevin Bautista,Full-time,EN
+A100507,Paolo Salazar,Customer Service,CS_EMEA_VOICE,Cebu City,"Apr 17, 2022",Inactive-Transfer,,Kevin Bautista,Full Time,EN
+A100078,Carlo Dela Cruz,Billing,BIL_NA_VOICE,"Manila, PH",31-Mar-2022,Active,,Paolo Bautista,Full-time,EN
+a100193,Paolo Santos,Technical Support,Tech Na Chat ,Cebu,"Jun 11, 2023",LOA,,Rhea Gonzales,FT,EN
+A100055,Carlo Bautista,Billing,BIL_NA_VOICE,MNL,2025-02-10,Terminated,"Sep 16, 2026",Dennis Mendoza,FT,EN
+A100020,Janelle Navarro,Billing,BIL_NA_VOICE,Manila,07-Sep-2026,Active,,Aileen Mendoza,Full Time,EN
+A100539,Mohd Wong,Retention,RET_APAC_VOICE,Kuala Lumpur,2025-12-30,Active,,Mohd Yusof,Full-time,EN-ZH
+A100179,John Villanueva,Technical Support,Tech Na Voice ,Manila,04-Jan-2021,Active,,Dennis Bautista,FT,EN
+a100258,Katarzyna WoÅºniak,Customer Service,cs_emea_voice,Kraków,2024-07-10,Active,,Tomasz Wiśniewski,FT,EN
+100256,Anna ZieliÅski,Customer Service,CS_EMEA_VOICE,Kraków,2021-11-02,Terminated,2026-08-20,Michał Woźniak,FT,EN-DE
+A100216,Lorraine Castillo,Technical Support,TECH_NA_CHAT,Cebu,13-Jul-2026,ACTIVE,,Carlo Pascual,Full-time,EN
+A100495,Patrick Aquino,Fraud,fraud_na_voice,Cebu,15-Apr-2024,Active,,Kevin Bautista,Full-time,EN
+A100194,Jose Mercado,Technical Support,TECH_NA_CHAT,Cebu,07-Sep-2022,Terminated,11-Jul-2026,Rhea Gonzales,Full Time,EN
+A100387,Julián Díaz,Customer Service,Cs Latam Voice ,Bogota,16-Jul-2022,Active,,Mateo Martínez,Full-time,ES
+A100131,Patrick Dela Cruz,Technical Support,tech_na_voice,Manila,"Oct 31, 2025",Active,,Jose Dela Cruz,FT,EN
+a100257,Piotr Nowak,Customer Service,CS_EMEA_VOICE,Kraków,11-Jan-2024,Active,,Joanna Kozłowski,FT,EN
+A100101,Kristine Bautista,Technical Support,TECH_NA_VOICE,Manila,21-Jul-2022,Active,,Jose Dela Cruz,Full-time,EN
+a100172,Noel Ocampo,Technical Support,tech_na_voice,Manila,,Active,,Kevin Flores,FT,EN
+A100519,Angelica Pascual,Fraud & Risk,FRAUD-NA-VOICE,Cebu,"Jul 27, 2024",Active,,Kevin Bautista,FT,EN
+A100454,Jessa Aquino,Fraud & Risk,FRAUD_NA_VOICE,CEB,"May 12, 2024",Active,,Dennis Dela Cruz,FT,EN
+A100528,Arun Lim,Retention,RET_APAC_VOICE,KL,"Jul 13, 2026",Act,,Mohd Yusof,Full-time,EN
+A100144,Janelle Aquino,Technical Support,TECH_NA_VOICE,MNL,,Active,,Carlo Reyes,FT,EN
+A100430,Maria Gonzales,Fraud & Risk,FRAUD_NA_VOICE,Cebu City,07-Sep-2026,Active,,Kevin Bautista,FT,EN
+A100493,Maria Villanueva,Fraud & Risk,FRAUD_NA_VOICE,CEB,"May 03, 2022",Active,,Kevin Bautista,Full-time,EN
+A100203,Allan Reyes,Technical Support,Tech Na Chat ,Cebu,24-Oct-2021,active,,Janelle Santos,Full-time,EN
+A100201,Mary Grace Garcia,Technical Support,TECH_NA_CHAT,Cebu,13-Dec-2021,Active,,Rhea Gonzales,FT,EN
+A100316,Dewi bin Abdullah,Sales,Sales Apac Voice ,Kuala Lumpur,23-Jun-2023,Active,,Faizal Rahman,Full-time,EN
+A100149,Jessa Navarro,Technical Support,TECH_NA_VOICE,Manila,"Oct 02, 2019",Term,13-Aug-2026,Allan Garcia,Full-time,EN
+a100269,Katarzyna Kowalski,Customer Service,CS_EMEA_VOICE,Kraków,2026-03-15,Active,,Tomasz Wiśniewski,Full-time,EN-DE
+100122,Paolo Reyes,Technical Support,Tech Na Voice ,MNL,"Jul 13, 2026",Active,,Carlo Reyes,FT,EN
+A100137,Patrick Castillo,Technical Support,tech_na_voice,Manila,"Apr 05, 2022",Active,,Kevin Flores,Full-time,EN
+A100221,Jessa Villanueva,Customer Service,CS_EMEA_VOICE,Cebu,"Feb 27, 2026",Inactive-Transfer,,Janelle Santos,Full Time,EN
+A100524,Arun Singh,Retention,ret_apac_voice,"Kuala Lumpur, MY","Dec 05, 2024",Active,,Mohd Yusof,Full-time,EN
+A100058,Rhea Villanueva,Billing,BIL_NA_VOICE,MNL,2023-02-02,Active,,Dennis Mendoza,FT,EN
+A100379,Juan David Hernández,Customer Service,CS_LATAM_VOICE,BOG,"Aug 10, 2026",Leave of Absence,,Daniela Ramírez,FT,ES
+A100195,Carlo Santos,Technical Support,tech_na_chat,Cebu,"Dec 13, 2023",Active,,Carlo Pascual,Full-time,EN
+A100271,Tomasz Wójcik,Customer Service,CS_EMEA_VOICE,Kraków,2020-12-10,Active,,Michał Woźniak,Full Time,EN-PL
+A100470,Kristine Torres,Fraud & Risk,FRAUD_NA_VOICE,Cebu,2023-03-22,Active,,Maria Domingo,Full-time,EN
+A100064,Aileen Reyes,Billing,BIL_NA_VOICE,Manila,20-Mar-2026,Active,,Aileen Mendoza,FT,EN
+A100394,Juan David RodrÃ­guez,Customer Service,cs_latam_voice,Bogotá,2026-03-09,Active,,Daniela Ramírez,Full Time,ES
+A100071,Jessa Torres,Billing,BIL_NA_VOICE,Manila,25-Nov-2021,Active,,Paolo Bautista,Full Time,EN
+a100441,Mary Grace Villanueva,Fraud & Risk,FRAUD_NA_VOICE,CEB,24-Jun-2024,Active,,Kevin Bautista,Full-time,EN
+A100517,Angelica Cruz,Fraud & Risk,FRAUD_NA_VOICE,Cebu,10-Aug-2026,Active,,Maria Domingo,Full-time,EN
+A100272,Tomasz Nowak,Customer Service,cs_emea_voice,Kraków,2023-11-16,Active,,Katarzyna Wójcik,FT,EN
+A100488,Aileen Domingo,Fraud & Risk,fraud_na_voice,CEB,"Nov 02, 2025",Active,,Dennis Dela Cruz,Full Time,EN
+A100267,Joanna Dąbrowski,Customer Service,CS_EMEA_VOICE,Kraków,03-Jun-2025,Active,,Michał Woźniak,Full-time,EN-PL
+A100449,Cherry Bautista,Fraud & Risk,FRAUD_NA_VOICE,Cebu,2024-04-23,Active,,Janelle Pascual,Full-time,EN
+A100452,Angelica Garcia,Fraud & Risk,FRAUD_NA_VOICE,Cebu,"Jul 20, 2025",Act,,Kevin Bautista,Full-time,EN
+A100170,Joanna Navarro,Technical Support,TECH_NA_VOICE,MNL,"Mar 25, 2022",Active,,Kevin Flores,FT,EN
+A100037,Dennis Mendoza,Billing,BIL_NA_VOICE,MNL,"Sep 21, 2024",Active,,Dennis Mendoza,FT,EN
+A100244,Cherry Pascual,Technical Support,TECH_NA_CHAT,Cebu,2020-03-24,Active,,Rhea Gonzales,Full-time,EN
+A100083,Angelica Santos,Billing,BIL_NA_VOICE,Manila,23-Jun-2023,Active,,Aileen Mendoza,Full-time,EN
+A100261,Joanna Dąbrowski,Customer Service,CS_EMEA_VOICE,Kraków,"Jan 08, 2020",Active,,Tomasz Wiśniewski,FT,EN-DE
+A100434,Maria Santos,Fraud & Risk,FRAUD_NA_VOICE,Cebu,"Aug 01, 2021",Active,,Maria Domingo,Full-time,EN
+A100349,Hafiz Ismail,Sales,sales_apac_voice,KL,2021-07-28,Active,,Aisyah Wong,Full-time,EN-ZH
+A100373,Julián Rodríguez,Customer Service,CS_LATAM_VOICE,Bogotá,2024-12-05,Active,,Daniela Ramírez,Full-time,ES
+A100315,Aisyah Raj,Sales,SALES_APAC_VOICE,Kuala Lumpur,2022-05-24,Active,,Faizal Rahman,Full-time,EN-MS
+A100023,Cherry Ocampo,Billing,bil_na_voice,Manila,"Jan 10, 2020",Active,,Dennis Mendoza,Full-time,EN
+A100338,Mei Ling Yusof,Sales,SALES_APAC_VOICE,Kuala Lumpur,"Jul 13, 2026",Active,,Aisyah Wong,FT,EN-ZH
+A100309,Joanna Dąbrowski,Customer Service,Cs Emea Voice ,Kraków,2022-12-07,Active,,Joanna Kozłowski,Full Time,EN-PL
+A100538,Farah Raj,Retention,RET-APAC-VOICE,Kuala Lumpur,"Oct 25, 2023",Active,,Mohd Yusof,Full-time,EN-ZH
+100240,Rica Navarro,Technical Support,TECH_NA_CHAT,Cebu,"Apr 08, 2025",Terminated,13-Aug-2026,Janelle Santos,Full-time,EN
+A100221,Jessa Villanueva,Technical Support,TECH_NA_CHAT,Cebu,"Feb 27, 2026",Active,,Janelle Santos,Full Time,EN
+A100014,Allan Aquino,Billing,BIL_NA_VOICE,Manila,"Apr 30, 2024",Active,,Rhea Torres,FT,EN
+A100463,Cherry Mendoza,Fraud & Risk,FRAUD_NA_VOICE,Cebu,01-May-2025,Active,,Dennis Dela Cruz,Full-time,EN
+a100161,Dennis Reyes,Technical Support,Tech Na Voice ,Manila,01-Apr-2025,ACTIVE,,Kevin Flores,Full-time,EN
+A100073,Mary Grace Salazar,Billing,bil_na_voice,Manila,10-May-2020,Active,,Aileen Mendoza,Full-time,EN
+A100178,Patrick Pascual,Technical Support,TECH_NA_VOICE,Manila,18-Jan-2024,Active,,Jose Dela Cruz,FT,EN
+A100277,Katarzyna Kowalski,Customer Service,CS_EMEA_VOICE,Kraków,2026-05-17,Active,,Michał Woźniak,Full Time,EN-PL
+A100368,Mateo Ramírez,Customer Service,CS_LATAM_VOICE,Bogotá,2020-07-31,active,,Mateo Martínez,Full-time,EN-ES
+100036,Kristine Cruz,Billing,BIL_NA_VOICE,Manila,,Active,,Carlo Flores,Full-time,EN
+100327,Priya Chong,Sales,SALES-APAC-VOICE,Kuala Lumpur,07-Mar-2022,Active,,Aisyah Wong,FT,EN-ZH
+100208,Kevin Mendoza,Technical Support,TECH_NA_CHAT,Cebu,07-Jan-2025,Active,,Janelle Santos,Full-time,EN
+A100226,Ronald Dela Cruz,Technical Support,TECH_NA_CHAT,Cebu City,2022-03-28,Active,,Carlo Pascual,FT,EN
+A100121,Rica Ramos,Technical Support,TECH-NA-VOICE,MNL,"Jul 07, 2021",Active,,Rica Mercado,Full Time,EN
+A100217,John Cruz,Technical Support,TECH_NA_CHAT,Cebu,2020-04-11,Active,,Janelle Santos,FT,EN
+A100030,Jerome Garcia,Billing,Bil Na Voice ,Manila,"Mar 29, 2026",Active,,Dennis Mendoza,Full-time,EN
+A100348,Aisyah Lim,Sales,SALES-APAC-VOICE,Kuala Lumpur,14-Jul-2022,Active,,Aisyah Wong,FT,EN
+A100189,Carlo Torres,Technical Support,TECH_NA_VOICE,Manila,"Mar 07, 2024",Act,,Allan Garcia,Full-time,EN
+A100532,Mei Ling Raj,Retention,RET_APAC_VOICE,Kuala Lumpur,2021-03-10,Act,,Mohd Yusof,Full-time,EN
+A100326,Ahmad Ismail,Sales,SALES_APAC_VOICE,Kuala Lumpur,2022-02-22,Active,,Faizal Rahman,Full-time,EN
+A100181,Jerome Gonzales,Technical Support,TECH_NA_VOICE,Manila,"Feb 14, 2020",Active,,Rica Mercado,FT,EN
+100407,Natalia Hernández,Customer Service,CS_LATAM_VOICE,Bogotá,"Jan 26, 2020",Active,,Mateo Martínez,FT,EN-ES
+A100234,Patrick Ocampo,Technical Support,Tech Na Chat ,Cebu City,2023-07-28,Active,,Rhea Gonzales,Full-time,EN
+A100484,Rica Pascual,Fraud & Risk,FRAUD_NA_VOICE,Cebu,03-Nov-2019,Active,,Dennis Villanueva,Full-time,EN
+A100460,Paolo Torres,Fraud & Risk,FRAUD_NA_VOICE,Cebu,2023-10-09,Active,,Kevin Bautista,FT,EN
+A100481,Joanna Reyes,Fraud & Risk,FRAUD_NA_VOICE,Cebu,14-Jan-2025,Active,,Maria Domingo,Full-time,EN
+A100166,Ronald Torres,Technical Support,TECH_NA_VOICE,MNL,"Jan 08, 2023",Active,,Rica Mercado,Full-time,EN
+A100127,Mark Cruz,Technical Support,TECH-NA-VOICE,MNL,11-Oct-2019,Active,,Allan Garcia,FT,EN
+100543,Mei Ling Singh,Retention,RET_APAC_VOICE,Kuala Lumpur,2020-06-15,Active,,Mohd Yusof,Full-time,EN
+A100265,Katarzyna Dąbrowski,Customer Service,CS_EMEA_VOICE,Kraków,2022-07-20,Active,,Tomasz Wiśniewski,Full-time,EN-DE
+A100065,Dennis Salazar,Billing,BIL_NA_VOICE,MNL,"Jan 20, 2024",Active,,Aileen Mendoza,Full Time,EN
+100506,Jessa Dela Cruz,Fraud & Risk,FRAUD_NA_VOICE,CEB,13-Sep-2023,Active,,Dennis Dela Cruz,Full-time,EN
+A100215,Jessa Pascual,Technical Support,TECH_NA_CHAT,Cebu,"Nov 02, 2021",Active,,Carlo Pascual,FT,EN
+A100521,Arun Wong,Retention,RET_APAC_VOICE,Kuala Lumpur,2025-07-28,Active,,Mohd Yusof,Full-time,EN-ZH
+A100385,Camila Martínez,Customer Service,CS_LATAM_VOICE,Bogota,"Jun 23, 2024",Active,,Daniela Ramírez,Full-time,ES
+A100339,Arun Ismail,Sales,SALES_APAC_VOICE,KL,"Aug 18, 2021",Active,,Wei Jie Lim,FT,EN
+A100505,Noel Mendoza,Fraud & Risk,fraud_na_voice,Cebu,19-Aug-2024,Active,,Dennis Villanueva,Full Time,EN
+A100176,Kevin Pascual,Technical Support,TECH_NA_VOICE,Manila,2025-08-31,Terminated,15-Jul-2026,Carlo Reyes,FT,EN
+A100399,Andrés Jiménez,Customer Service,CS_LATAM_VOICE,Bogotá,10-Aug-2026,Active,,Cristian Martínez,Full-time,EN-ES
+A100497,Lorraine Bautista,Fraud & Risk,FRAUD_NA_VOICE,Cebu,"May 21, 2024",Active,,Dennis Dela Cruz,Full-time,EN
+A100173,Paolo Mercado,Technical Support,TECH_NA_VOICE,Manila,2020-02-01,Active,,Dennis Bautista,FT,EN
+A100333,Siti Rahman,Sales,SALES_APAC_VOICE,Kuala Lumpur,"Aug 10, 2026",Active,,Faizal Rahman,Full-time,EN
+A100033,Carlo Ramos,Billing,BIL_NA_VOICE,Manila,"May 22, 2020",Active,,Rhea Torres,Full-time,EN
+A100032,John Flores,Billing,BIL_NA_VOICE,Manila,21-May-2026,Active,,Paolo Bautista,Full-time,EN
+A100233,Kristine Bautista,Technical Support,TECH_NA_CHAT,Cebu,"Feb 17, 2022",Act,,Janelle Santos,Full-time,EN
+A100236,Dennis Reyes,Technical Support,Tech Na Chat ,Cebu,2023-03-23,Active,,Carlo Pascual,FT,EN
+A100375,Daniela Martínez,Customer Service,CS_LATAM_VOICE,Bogotá,15-Apr-2021,Active,,Cristian Martínez,Full Time,ES
+A100398,Juan David JimÃ©nez,Customer Service,CS_LATAM_VOICE,Bogotá,2020-11-02,Active,,Mateo Martínez,FT,ES
+A100409,Mateo Rojas,Customer Service,CS_LATAM_VOICE,Bogotá,"Jun 30, 2025",Active,,Daniela Ramírez,Full-time,EN-ES
+A100188,Angelica Villanueva,Technical Support,TECH_NA_VOICE,Manila,2020-01-05,Active,,Kevin Flores,Full-time,EN
+A100174,Joanna Cruz,Technical Support,TECH-NA-VOICE,manila ,2022-09-07,Active,,Carlo Reyes,Full-time,EN
+a100419,Allan Aquino,Fraud & Risk,FRAUD_NA_VOICE,Cebu,"Dec 28, 2022",Active,,Kevin Bautista,Full-time,EN
+100390,Laura Castro,Customer Service,cs_latam_voice,Bogotá,"Nov 02, 2023",active,,Daniela Ramírez,FT,EN-ES
+A100530,Mei Ling Ismail,Retention,RET_APAC_VOICE,Kuala Lumpur,"Apr 22, 2025",Act,,Mohd Yusof,Full Time,EN-ZH
+A100304,Joanna Zieliński,Customer Service,CS_EMEA_VOICE,Krakow,31-Jan-2024,Active,,Tomasz Wiśniewski,Full-time,EN
+a100039,Mary Grace Santos,Billing,bil_na_voice,Manila,25-Jul-2020,Active,,Aileen Mendoza,FT,EN
+A100266,Michał Kowalczyk,Customer Service,CS-EMEA-VOICE,Kraków,2021-11-30,Active,,Tomasz Wiśniewski,FT,EN
+100288,Agnieszka Lewandowski,Customer Service,CS_EMEA_VOICE,Kraków,"Jul 13, 2026",Active,,Michał Woźniak,Full-time,EN-DE
+A100475,Kristine Mendoza,Fraud & Risk,FRAUD_NA_VOICE,Cebu City,31-Aug-2022,Active,,Kevin Bautista,Full-time,EN
+A100015,Patrick Mercado,Billing,Bil Na Voice ,Manila,12-May-2022,Active,,Paolo Bautista,FT,EN
+A100095,Lorraine Gonzales,Technical Support,TECH_NA_VOICE,Manila,"Aug 12, 2020",Active,,Kevin Flores,Full-time,EN
+A100017,Patrick Dela Cruz,Billing,Bil Na Voice ,Manila,2022-12-15,Act,,Carlo Flores,Full-time,EN
+A100392,Camila Rojas,Customer Service,CS_LATAM_VOICE,Bogotá,2025-06-25,Act,,Daniela Ramírez,FT,ES
+A100342,Mei Ling Nair,Sales,Sales Apac Voice ,Kuala Lumpur,"Oct 06, 2019",Active,,Wei Jie Lim,FT,EN-ZH
+a100218,Dennis Navarro,Technical Support,TECH_NA_CHAT,Cebu,2022-11-04,Active,,Janelle Santos,FT,EN
+A100290,Paweł Lewandowski,Customer Service,CS_EMEA_VOICE,KRK,"Oct 24, 2024",Act,,Tomasz Wiśniewski,FT,EN-DE
+100414,Valentina Martínez,Customer Service,CS-LATAM-VOICE,Bogota,2021-03-28,Active,,Daniela Ramírez,Full-time,EN-ES
+A100105,Rhea Ocampo,Customer Service,CS_EMEA_VOICE,Manila,29-Jan-2025,Inactive-Transfer,"Jul 13, 2026",Dennis Bautista,Full Time,EN
+A100079,Aileen Domingo,Billing,BIL_NA_VOICE,Manila,,Active,,Carlo Flores,Full-time,EN
+A100388,Paula Hernández,Customer Service,CS_LATAM_VOICE,Bogotá,"Aug 03, 2021",Active,,Mateo Martínez,Full Time,ES
+A100184,John Bautista,Technical Support,TECH_NA_VOICE,Manila,2021-12-15,Active,,Kevin Flores,Full Time,EN
+A100450,Angelica Navarro,Fraud & Risk,Fraud Na Voice ,Cebu,15-Mar-2026,ACTIVE,,Kevin Bautista,Full-time,EN
+A100381,Laura Ramírez,Cust Service,CS_LATAM_VOICE,Bogotá,"May 26, 2024",Terminated,2026-09-02,Daniela Ramírez,Full Time,ES
+A100492,Angelica Domingo,Fraud & Risk,FRAUD_NA_VOICE,Cebu,"Nov 20, 2019",Active,,Dennis Dela Cruz,Full-time,EN
+A100191,Ronald Villanueva,Technical Support,TECH_NA_CHAT,Cebu,24-Jan-2024,Active,,Janelle Santos,Full-time,EN
+A100365,Julián Moreno,Customer Service,CS_LATAM_VOICE,Bogotá,"Dec 13, 2021",Active,,Mateo Martínez,Full-time,EN-ES
+A100136,Kevin Pascual,Technical Support,TECH_NA_VOICE,Manila,12-Jan-2025,Active,,Carlo Reyes,FT,EN
+a100246,Aileen Mendoza,Technical Support,TECH_NA_CHAT,Cebu,"Aug 17, 2022",Active,,Carlo Pascual,Full-time,EN
+A100275,Agnieszka Szymański,Customer Service,CS_EMEA_VOICE,Kraków,30-Jan-2025,Active,,Katarzyna Wójcik,Full-time,EN-DE
+A100148,Maria Gonzales,Technical Support,TECH_NA_VOICE,Manila,2022-10-31,Active,,Rica Mercado,FT,EN
+a100106,Cherry Ocampo,Technical Support,TECH-NA-VOICE,Manila,"Aug 27, 2025",Active,,Rica Mercado,Full-time,EN
+A100295,Małgorzata Kozłowski,Customer Service,CS-EMEA-VOICE,Kraków,2023-09-07,Active,,Katarzyna Wójcik,Full-time,EN-PL
+A100325,Hafiz Raj,Sales,SALES_APAC_VOICE,Kuala Lumpur,"Jul 28, 2023",Active,,Faizal Rahman,FT,EN-MS
+a100111,Paolo Dela Cruz,Technical Support,tech_na_voice,manila ,2023-12-01,Active,,Carlo Reyes,Full-time,EN
+A100006,John Ocampo,Billing,BIL_NA_VOICE,"Manila, PH","Feb 21, 2022",Active,,Rhea Torres,Full-time,EN
+A100145,Lorraine Ramos,Technical Support,tech_na_voice,MNL,2024-07-04,Active,,Rica Mercado,Full-time,EN
+A100104,Ronald Torres,Technical Support,TECH_NA_VOICE,Manila,07-Sep-2026,Active,,Allan Garcia,Full-time,EN
+A100211,Angelica Reyes,Technical Support,TECH_NA_CHAT,Cebu,24-Oct-2021,Active,,Carlo Pascual,Full-time,EN
+100447,Noel Villanueva,Fraud & Risk,FRAUD-NA-VOICE,CEB,2023-04-07,Active,,Kevin Bautista,FT,EN
+A100042,Joanna Garcia,Billing,bil_na_voice,Manila,2021-12-29,Active,,Aileen Mendoza,Full-time,EN
+A100363,Priya Yusof,Sales,SALES_APAC_VOICE,Kuala Lumpur,2025-07-27,active,,Aisyah Wong,Full-time,EN
+A100378,Andrés Rojas,Customer Service,CS-LATAM-VOICE,Bogotá,2020-02-21,Active,,Daniela Ramírez,FT,ES
+a100255,Joanna Lewandowski,Customer Service,CS_EMEA_VOICE,Krakow,27-May-2020,Active,,Tomasz Wiśniewski,Full-time,EN-PL
+A100147,Dennis Ocampo,Technical Support,Tech Na Voice ,Manila,2020-08-19,Active,,Kevin Flores,FT,EN
+100087,Aileen Torres,Billing,BIL_NA_VOICE,Manila,03-Oct-2022,Active,,Rhea Torres,Full-time,EN
+A100432,John Ocampo,Fraud & Risk,FRAUD_NA_VOICE,CEB,"Dec 27, 2021",Active,,Dennis Villanueva,Full-time,EN
+A100066,Angelica Torres,Billing,BIL_NA_VOICE,Manila,2025-04-19,Active,,Rhea Torres,Full-time,EN
+A100206,Kevin Pascual,Technical Support,TECH_NA_CHAT,Cebu,"May 17, 2026",Active,,Rhea Gonzales,Full-time,EN
+A100045,Janelle Aquino,Billing,BIL-NA-VOICE,MNL,11-Apr-2022,Active,,Paolo Bautista,FT,EN
+A100028,John Torres,Billing,BIL_NA_VOICE,Manila,2026-04-10,Active,,Rhea Torres,Full-time,EN
+A100081,Rica Torres,Billing,BIL_NA_VOICE,Manila,2022-05-12,Active,,Aileen Mendoza,Full-time,EN
+a100438,Angelica Ramos,Fraud & Risk,FRAUD_NA_VOICE,CEB,2020-08-10,Active,,Kevin Bautista,Full-time,EN
+A100114,Noel Aquino,Technical Support,TECH_NA_VOICE,Manila,"Mar 04, 2024",Active,,Kevin Flores,FT,EN
+A100205,Jose Castillo,Technical Support,TECH_NA_CHAT,CEB,"May 31, 2026",Active,,Carlo Pascual,Full-time,EN
+A100520,Arun bin Abdullah,Retention,RET-APAC-VOICE,Kuala Lumpur,2020-06-11,Active,,Mohd Yusof,FT,EN-MS
+A100412,Santiago Hernández,Customer Service,CS_LATAM_VOICE,Bogotá,"Mar 19, 2023",Active,,Daniela Ramírez,Full-time,EN-ES
+A100009,Carlo Mendoza,Billing,BIL_NA_VOICE,Manila,"Aug 02, 2025",Active,,Carlo Flores,FT,EN
+A100074,Carlo Castillo,Billing,BIL_NA_VOICE,Manila,10-Dec-2020,Active,,Rhea Torres,Full-time,EN
+A100401,Mateo Rojas,Customer Service,CS_LATAM_VOICE,Bogotá,"Oct 10, 2020",Active,,Cristian Martínez,Full Time,ES
+A100119,John Mendoza,Technical Support,Tech Na Voice ,Manila,2021-09-08,Active,,Jose Dela Cruz,Full-time,EN
+a100207,Joanna Dela Cruz,Technical Support,TECH-NA-CHAT,Cebu,2023-05-16,Active,,Janelle Santos,Full-time,EN

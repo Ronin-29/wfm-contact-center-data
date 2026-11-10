@@ -1,0 +1,9 @@
+Queue_ID,Department,Channel,Customer_Region,Site,Site_Country,Site_Time_Zone,Customer_Time_Zone,Open_Time_Site_Local,Open_Hours_Per_Day,Service_Level_Target
+BIL_NA_VOICE,Billing,Voice,North America,Manila,PH,Asia/Manila,America/New_York,20:00,12,80/20
+TECH_NA_VOICE,Technical Support,Voice,North America,Manila,PH,Asia/Manila,America/New_York,20:00,16,80/20
+TECH_NA_CHAT,Technical Support,Chat,North America,Cebu,PH,Asia/Manila,America/New_York,21:00,14,80/60
+CS_EMEA_VOICE,Customer Service,Voice,EMEA,Kraków,PL,Europe/Warsaw,Europe/Warsaw,07:00,12,80/20
+SALES_APAC_VOICE,Sales,Voice,APAC,Kuala Lumpur,MY,Asia/Kuala_Lumpur,Asia/Kuala_Lumpur,09:00,12,80/20
+CS_LATAM_VOICE,Customer Service,Voice,LATAM,Bogotá,CO,America/Bogota,America/Bogota,07:00,14,80/20
+FRAUD_NA_VOICE,Fraud & Risk,Voice,North America,Cebu,PH,Asia/Manila,America/New_York,20:00,24,80/20
+RET_APAC_VOICE,Retention,Voice,APAC,Kuala Lumpur,MY,Asia/Kuala_Lumpur,Asia/Kuala_Lumpur,09:00,10,80/20

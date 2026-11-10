@@ -1,0 +1,20 @@
+Holiday_Date,Holiday_Name,Applies_To,Location
+2026-08-21,Ninoy Aquino Day,SITE,Manila
+2026-08-31,National Heroes Day,SITE,Manila
+2026-08-21,Ninoy Aquino Day,SITE,Cebu
+2026-08-31,National Heroes Day,SITE,Cebu
+2026-08-31,Merdeka Day,SITE,Kuala Lumpur
+2026-09-16,Malaysia Day,SITE,Kuala Lumpur
+2026-07-20,Independence Day,SITE,Bogotá
+2026-08-07,Battle of Boyacá,SITE,Bogotá
+2026-08-17,Assumption (moved),SITE,Bogotá
+2026-08-15,Assumption Day,SITE,Kraków
+2026-07-03,Independence Day (observed),CUSTOMER_REGION,North America
+2026-07-04,Independence Day,CUSTOMER_REGION,North America
+2026-09-07,Labor Day,CUSTOMER_REGION,North America
+2026-08-15,Assumption Day (Poland),CUSTOMER_REGION,EMEA
+2026-07-20,Independence Day (Colombia),CUSTOMER_REGION,LATAM
+2026-08-07,Battle of Boyacá (Colombia),CUSTOMER_REGION,LATAM
+2026-08-17,"Assumption (Colombia, moved)",CUSTOMER_REGION,LATAM
+2026-08-31,Merdeka Day (Malaysia),CUSTOMER_REGION,APAC
+2026-09-16,Malaysia Day,CUSTOMER_REGION,APAC
